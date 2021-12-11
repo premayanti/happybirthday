@@ -2,5 +2,5 @@
 
 ### WISH YOU ALL THE BEST
 
-#### [Demo](https://premayanti/happybirthday/)
+#### [Demo](https://premayanti.github.io/)
 
